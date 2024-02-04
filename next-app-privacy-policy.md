@@ -1,3 +1,3 @@
 * no data is collected
 * no data is shared
-* no advertisments
+* no advertisements
